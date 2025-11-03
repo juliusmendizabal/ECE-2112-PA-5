@@ -68,7 +68,7 @@ Displaying the output, we automatically get the Solution Vector 'x' as shown bel
 <img width="351" height="122" alt="image" src="https://github.com/user-attachments/assets/46203702-90af-4677-97cf-20d5a5bd64c7" />
 
 
-### Solving using Cramer's Rule:
+### Solving using Cramer's Rule
 The following code was used:
 ```matlab
 detA = det(A); % calculate the determinant of A
